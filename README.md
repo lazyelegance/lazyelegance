@@ -1,10 +1,10 @@
 # Hi 👋, I'm Ezra
 
-## 🇳🇿 Kiwi
+### 🇳🇿 Kiwi
 
-## 🏎 Formula 1 fan
+### 🏎 Formula 1 fan
 
-## 👨🏾‍💻 Front End developer
+### 👨🏾‍💻 Front End developer
 
 <br/><br/>
 
