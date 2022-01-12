@@ -10,5 +10,5 @@
 
 🔭 I’m currently working as **Techincal Lead** at **Vodafone New Zealand**
 
-🌱 I’m currently discovering **emacs** and **org-mode**
+🌱 I’m currently learning ~~emacs** and **org-mode**~~ **SwitUI** and **Combine**
 
