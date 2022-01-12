@@ -10,5 +10,8 @@
 
 🔭 I’m currently working as **Techincal Lead** at **Vodafone New Zealand**
 
-🌱 I’m currently learning ~~emacs** and **org-mode**~~ **SwitUI** and **Combine**
+🌱 I’m currently learning ~~emacs and org-mode~~ **SwitUI** and **Combine**
+
+
+https://ezrabathini.com
 
