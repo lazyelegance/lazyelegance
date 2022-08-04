@@ -15,3 +15,4 @@
 
 https://ezrabathini.com
 
+<a href="https://app.daily.dev/lazyelegance"><img src="https://api.daily.dev/devcards/5c827ed75cd745cebd44f15d085ed834.png?r=13d" width="400" alt="Ezra Bathini's Dev Card"/></a>
