@@ -1,10 +1,6 @@
 # Hi 👋, I'm Ezra
 
-### 🇳🇿 Kiwi
-
-### 🏎 Formula 1 fan
-
-### 👨🏾‍💻 and I code stuff
+🇳🇿 Kiwi, 🏎 Formula 1 fan and 👨🏾‍💻 and I code stuff
 
 <br/><br/>
 
