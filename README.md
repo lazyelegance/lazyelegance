@@ -3,7 +3,7 @@
 **Full Stack Developer** based in Auckland, New Zealand. I love coding mobile apps.
 
 
-🔭 I’m currently working as **Techincal Lead** at **Vodafone New Zealand**
+🔭 I’m currently working as **Solution Architect** at **Vodafone New Zealand**
 
 
 #### 🌱 I’m currently learning 
