@@ -1,18 +1,18 @@
 # Hi 👋, I'm Ezra
 
-**Full Stack Developer** based in Auckland, New Zealand. I love coding mobile apps.
+**Solution Architect** / **Full Stack Developer** based in Auckland, New Zealand. I love coding mobile apps.
 
 
-🔭 I’m currently working as **Solution Architect** at **Vodafone New Zealand**
+🔭 I’m currently working as **Solution Architect** at **One New Zealand** (formerly Vodafone New Zealand) in Digital, Identity and Access Management domains
 
 
-#### 🌱 I’m currently learning 
+#### 🌱 I’m currently learning  
 
   -  [x] ~~emacs and org-mode~~ 
   
-  -  [ ] **SwitUI** and **Combine**
+  -  [x] **SwitUI** and **Combine**
 
-  -  [ ] Identity and Access Management
+  -  [x] Identity and Access Management
 
 
 
@@ -30,7 +30,7 @@
 
 - ~~Cricket~~
 
-- Reading - [📚 reading list](https://books.ezrabathini.com)
+- Reading - [📚 reading list](https://www.ezrabathini.com/books)
 
 - Guilty pleasure: UK Panel shows - [The Chaotic Serenity of the U.K. Panel Show](https://www.gq.com/story/the-chaotic-serenity-of-the-uk-panel-show)
 
