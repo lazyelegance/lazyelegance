@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ezra
 
-**Solution Architect** / **Full Stack Developer** based in Auckland, New Zealand. I love coding mobile apps.
+**Solution Architect** based in Auckland, New Zealand. I love coding mobile apps.
 
 
 🔭 I’m currently working as **Solution Architect** at **One New Zealand** (formerly Vodafone New Zealand) in Digital, Identity and Access Management domains
